@@ -1,7 +1,7 @@
 title: My Portfolio
 description: A showcase of my projects and skills
-baseurl: ""
-url: ""
+baseurl: "/myportfolio"  # match your repository name
+url: "https://aboubacar3012.github.io"  # replace USERNAME with your GitHub username
 
 # Build settings
 theme: jekyll-theme-primer
