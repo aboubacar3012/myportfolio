@@ -1,0 +1,16 @@
+/* About Section */
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 18px;
+  text-align: center;
+  padding: 40px;
+  border-radius: 16px;
+  background: var(--card-bg-glass);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow-glass);
+}
+
+.about-content p {
+  margin-bottom: 20px;
+}

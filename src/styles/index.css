@@ -1,0 +1,15 @@
+/* Import all CSS files */
+@import './variables.css';
+@import './base.css';
+@import './header.css';
+@import './mobile-menu.css';
+@import './hero.css';
+@import './about.css';
+@import './timeline.css';
+@import './projects.css';
+@import './modal.css';
+@import './skills.css';
+@import './contact.css';
+@import './footer.css';
+@import './animations.css';
+@import './responsive.css';
